@@ -2,6 +2,8 @@
 
 **Lightweight Chrome extension for AI-powered GitHub PR reviews**
 
+Chrome webstore link: [link](https://chromewebstore.google.com/detail/tldr-this-pr/mpgekicmpbnkcpjpjadjhiblcbpdlknl?authuser=0&hl=en-GB)
+
 Born from [Theo's T3 OSS maintainer rant](https://youtu.be/l8pQeVVaqpY?t=1964) - the exact pain point is real. Existing alternatives (PR Agent, etc.) are heavy/self-hosted. This is a minimal-setup, lightweight extension that gives you instant PR analysis.
 
 ## Features
